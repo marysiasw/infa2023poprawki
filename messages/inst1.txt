@@ -1,0 +1,2 @@
+Za chwilę przystąpisz do wykonywania zadania. Polega ono na wciskaniu prawej strzałki, kiedy na ekranie wyświetli się liczba parzysta. Jeżeli podana liczba jest nieparzysta, nie wciskaj nic - zaczekaj na ponowne pojawienie się punktu fiksacji.
+Naciśnij spację by przejść dalej
